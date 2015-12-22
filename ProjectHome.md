@@ -1,0 +1,1 @@
+School Management System is a big system cover all department functionality or active of UME.
